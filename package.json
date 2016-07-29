@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "antimoderate": "0.0.2",
     "jquery": "^3.1.0",
     "jsdom": "^9.4.1"
   },
