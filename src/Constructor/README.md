@@ -3,6 +3,9 @@
 `JavaScript中的普通函数与构造函数 - 推酷`
 http://www.tuicool.com/articles/6rMRR36
 
+★ `理解原型链和原型继承 - 推酷`
+http://www.tuicool.com/articles/UBVZVrf
+
 ---
 
 # ES6-class

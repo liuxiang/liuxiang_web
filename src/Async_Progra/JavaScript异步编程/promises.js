@@ -26,6 +26,7 @@
 })();
 
 /*********************** node-jquery ***********************/
+// cnpm install jquery && cnpm install jsdom  # https://github.com/UncoolAJ86/node-jquery
 function jquery(callback) {
   var env = require('jsdom').env, html = '<html><body><h1>Hello World!</h1><p class="hello">Heya Big World!</body></html>';
   env(html, function (errors, window) {
