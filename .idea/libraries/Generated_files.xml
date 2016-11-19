@@ -1,12 +1,5 @@
 <component name="libraryTable">
   <library name="Generated files" type="javaScript">
-    <properties>
-      <sourceFilesUrls>
-        <item url="file://$PROJECT_DIR$/src/babel/es6-export-compiled.js" />
-        <item url="file://$PROJECT_DIR$/src/ES6/Modules-diligenceday/index.html-compiled.js" />
-        <item url="file://$PROJECT_DIR$/src/babel/test-compiled.js" />
-      </sourceFilesUrls>
-    </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/src/babel/node_modules/.npminstall/core-js/2.4.1/core-js/fn/observable-compiled.js" />
       <root url="file://$PROJECT_DIR$/src/babel/node_modules/.npminstall/core-js/2.4.1/core-js/fn/function/virtual/index-compiled.js" />
