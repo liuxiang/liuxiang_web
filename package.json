@@ -9,10 +9,12 @@
   "devDependencies": {
     "babel-cli": "^6.16.0",
     "babel-preset-es2015": "^6.16.0",
-    "babel-preset-latest": "^6.16.0"
+    "babel-preset-latest": "^6.16.0",
+    "react": "^15.4.1",
+    "webpack": "^1.13.3"
   },
   "scripts": {
     "build": "babel src -d lib",
-    "run":"babel-node"
+    "run": "babel-node"
   }
 }

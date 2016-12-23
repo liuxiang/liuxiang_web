@@ -34,7 +34,6 @@
   console.log(prince.kind);//true
   console.log(prince.age);// 25 - 实例才能访问到
   console.log(Prince.age);// undefined - 不能用类型名访问
-  console.log();
 
   // ------------------------------------ 原型链-构造函数(return)
   function Person(name) {
