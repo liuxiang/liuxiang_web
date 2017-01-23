@@ -14,7 +14,9 @@
     "webpack": "^1.13.3"
   },
   "scripts": {
+    "test": "echo 'npm run test' ok",
     "build": "babel src -d lib",
-    "run": "babel-node"
+    "babel": "babel src/babel -d src/babel/dist",
+    "run":"echo 'npm run' ok"
   }
 }
